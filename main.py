@@ -11,7 +11,7 @@ url = "https://yts-am-torrent.p.rapidapi.com/movie_details.json"
 querystring = {"imdb_id": imdbd}
 
 headers = {
-    "x-rapidapi-key": "c0bead6f29msh4d9e7d3d14843aep13418ejsn36aca17680de",
+    "x-rapidapi-key": "your api key",
     "x-rapidapi-host": "yts-am-torrent.p.rapidapi.com"
 }
 try:
