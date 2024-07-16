@@ -33,7 +33,7 @@ Warning: The use of MovieFetcher is intended for personal use and educational pu
 ## Usage
 1. **Set Up Your RapidAPI Key:**
 
-   Sign up on [RapidAPI]([https://rapidapi.com/](https://rapidapi.com/theapiguy/api/yts-am-torrent)) and subscribe to the yts.mx API. Obtain your API key.
+   Sign up on https://rapidapi.com/theapiguy/api/yts-am-torrent and subscribe to the yts.mx API. Obtain your API key.
 
 2. **Update the API Key:**
 
