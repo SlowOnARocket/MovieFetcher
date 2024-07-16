@@ -18,7 +18,7 @@ Here's a README file for MovieFetcher based on the provided source code:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MovieFetcher.git
+   git clone https://github.com/slowonarocket/MovieFetcher.git
    cd MovieFetcher
    ```
 
