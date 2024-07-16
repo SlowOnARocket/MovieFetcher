@@ -1,4 +1,4 @@
-Here's a README file for MovieFetcher based on the provided source code:
+Here's the updated README with your GitHub username included:
 
 # MovieFetcher
 
@@ -14,11 +14,13 @@ Here's a README file for MovieFetcher based on the provided source code:
 - Python 3.x
 - RapidAPI account and key
 - Internet connection
+- `requests` library (version 2.22.0)
+- `PyBitTorrent` library (version 0.5.6)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/slowonarocket/MovieFetcher.git
+   git clone https://github.com/SlowOnARocket/MovieFetcher.git
    cd MovieFetcher
    ```
 
@@ -126,4 +128,10 @@ try:
 
 except:
     exit("Error: No Torrent available or closed by user input.")
+```
+
+## `requirements.txt`
+```plaintext
+requests~=2.22.0
+PyBitTorrent~=0.5.6
 ```
