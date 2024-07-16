@@ -8,6 +8,9 @@
 - Retrieve torrents by simply providing the IMDb ID of the desired movie
 - Fast and reliable performance
 
+##  Disclaimer
+Warning: The use of MovieFetcher is intended for personal use and educational purposes only. The author is not responsible for any misuse of this software. All movie and torrent content is provided by yts.mx through their API. The creator of MovieFetcher used this API solely for demonstration and educational purposes. Downloading copyrighted material without permission is illegal and punishable by law. Use this software at your own risk.
+
 ## Requirements
 - Python 3.x
 - RapidAPI account and key
