@@ -1,5 +1,3 @@
-Here's the updated README with your GitHub username included:
-
 # MovieFetcher
 
 **MovieFetcher** is a software tool that retrieves torrents from yts.mx's API using your RapidAPI key and fetches the torrent content based on the IMDb ID of the movie.
@@ -32,7 +30,7 @@ Here's the updated README with your GitHub username included:
 ## Usage
 1. **Set Up Your RapidAPI Key:**
 
-   Sign up on [RapidAPI](https://rapidapi.com/) and subscribe to the yts.mx API. Obtain your API key.
+   Sign up on [RapidAPI]([https://rapidapi.com/](https://rapidapi.com/theapiguy/api/yts-am-torrent)) and subscribe to the yts.mx API. Obtain your API key.
 
 2. **Update the API Key:**
 
@@ -54,6 +52,7 @@ Here's the updated README with your GitHub username included:
 4. **Example Usage:**
 
    When prompted, enter the IMDb ID of the movie (e.g., `tt0111161` for "The Shawshank Redemption") and specify the output directory.
+   The imdb id starts with tt and is located in the movie's url.
 
 ## Troubleshooting
 - Ensure you have a stable internet connection.
